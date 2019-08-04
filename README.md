@@ -13,3 +13,8 @@ Can be found in `assets/`
   could be played with.
 - Input and Send on right side of pedal, Out and Return on left side.
 - Tight Squeeze in the Enclosure!
+
+## More Notes
+
+- FB only really engages when blend is at 100%. It would be really nice if it was independent. So FB at 100% is crazy, but we can cut it with Blend. 
+- Dedicated Volume for FB? 
