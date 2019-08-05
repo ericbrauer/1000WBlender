@@ -18,3 +18,4 @@ Can be found in `assets/`
 
 - FB only really engages when blend is at 100%. It would be really nice if it was independent. So FB at 100% is crazy, but we can cut it with Blend. 
 - Dedicated Volume for FB? 
+- What value of pot on FB of Rat King? That one is way more controllable.
