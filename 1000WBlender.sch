@@ -1,4 +1,4 @@
-EESchema Schematic File Version 5
+EESchema Schematic File Version 4
 LIBS:1000WBlender-cache
 EELAYER 30 0
 EELAYER END
@@ -6,8 +6,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "1000W Blender"
-Date "2019-07-04"
-Rev "0.1"
+Date "2019-08-16"
+Rev "0.2"
 Comp "Eric's dumb pedal shop"
 Comment1 "A combination blend/feedback circuit"
 Comment2 ""
@@ -516,12 +516,12 @@ Wire Wire Line
 $Comp
 L 1000@:+4.5v_+4.5V #PWR02
 U 1 1 5D53C79D
-P 3100 1500
-F 0 "#PWR02" H 3100 1350 50  0001 C CNN
-F 1 "+4.5v_+4.5V" H 3115 1673 50  0000 C CNN
-F 2 "" H 3100 1500 50  0001 C CNN
-F 3 "" H 3100 1500 50  0001 C CNN
-	1    3100 1500
+P 3100 1150
+F 0 "#PWR02" H 3100 1000 50  0001 C CNN
+F 1 "+4.5v_+4.5V" H 3115 1323 50  0000 C CNN
+F 2 "" H 3100 1150 50  0001 C CNN
+F 3 "" H 3100 1150 50  0001 C CNN
+	1    3100 1150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
